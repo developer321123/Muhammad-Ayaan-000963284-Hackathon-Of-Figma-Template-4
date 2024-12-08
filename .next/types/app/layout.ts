@@ -1,4 +1,4 @@
-// File: D:\New folder\src\app\layout.tsx
+// File: D:\Muammad Ayaan Figma Hackathon Template 4\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
